@@ -1,0 +1,2 @@
+C:\Eclipse_Workspace\OpenCartDemo_HybridFrameWork
+mvn clean test
